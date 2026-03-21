@@ -1,0 +1,7 @@
+node_modules
+.env
+pnpm-lock.yaml
+.DS_Store
+
+.venv
+output.pptx
