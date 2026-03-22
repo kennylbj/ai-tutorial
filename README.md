@@ -142,7 +142,6 @@ DASHSCOPE_API_KEY=your_dashscope_api_key
 说明：
 
 - 当前代码主要使用 `DASHSCOPE_API_KEY`
-- `OPENROUTER_API_KEY` 已不是当前主流程所必需
 
 ### 3. PPT 技能的 Python 依赖
 

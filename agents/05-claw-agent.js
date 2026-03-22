@@ -65,7 +65,7 @@ function getCommand(text) {
 async function runCommand(command) {
   try {
     const result = await execAsync(command, {
-      shell: '/bin/zsh',
+      shell: '/bin/sh',
       timeout: 10000,
       maxBuffer: 1024 * 1024,
     });
